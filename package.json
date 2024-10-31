@@ -1,0 +1,21 @@
+{
+  "name": "linkedin",
+  "version": "1.0.0",
+  "main": "linkedin.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "playwright": "^1.48.2",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
